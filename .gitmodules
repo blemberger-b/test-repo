@@ -1,0 +1,4 @@
+[submodule "miscellaneousjava"]
+	path = miscellaneousjava
+	url = git@bitbucket.org:blemberger/miscellaneousjava.git
+	branch = master
